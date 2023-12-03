@@ -22,17 +22,16 @@ Database Storage: User data is stored in a MySQL database using JDBC.
 Technologies Used
 
 Java: 
-
 Programming language for Servlets.
+
 JSP (JavaServer Pages):
-
 Technology for creating dynamic web pages.
+
 Servlet: 
-
 Java classes to handle HTTP requests and responses.
+
 JDBC (Java Database Connectivity):
-
 Java API for connecting and executing queries with the database.
-MySQL: 
 
+MySQL: 
 Relational database management system.
