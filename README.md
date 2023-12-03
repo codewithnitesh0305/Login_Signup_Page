@@ -6,13 +6,16 @@ User Registration: Users can create a new account by providing necessary details
 User Authentication: Registered users can log in using their credentials.
 Database Storage: User data is stored in a MySQL database using JDBC.
 
-Register Page.
+1 Register Page.
+
 ![Screenshot 2023-12-03 103719](https://github.com/codewithnitesh0305/Login_Signup_Page/assets/133355700/d8a0288d-3ea9-4f19-91ad-9b1c41104046)
 
-Login Page.
+2 Login Page.
+
 ![Screenshot 2023-12-03 103731](https://github.com/codewithnitesh0305/Login_Signup_Page/assets/133355700/2637934b-85f5-4465-b440-3fa742ad81d0)
 
-Password Reset Page.
+3 Password Reset Page.
+
 ![Screenshot 2023-12-03 103740](https://github.com/codewithnitesh0305/Login_Signup_Page/assets/133355700/48c7a695-95a9-421d-a369-1e9b7818f02d)
 
 
